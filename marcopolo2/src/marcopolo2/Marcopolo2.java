@@ -10,7 +10,9 @@ public class Marcopolo2 {
         for(int i=1; i<=100; i++){
             System.out.println("yo se que si pasamos topicos");
         }
-        System.out.println(" cambio numero 3");
+        System.out.println("Nota: "+ (int) (Math.random() * 5));
+        System.out.println(" version 5");
+        
     }
     
 }
